@@ -163,7 +163,7 @@ d[3, ]
 
 The intersection between row 2 and column 4 can be obtained by
 ```{r}
-d[2, 3]
+d[2, 4]
 ```
 
 ## Calling columns elements in data frames
